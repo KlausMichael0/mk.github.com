@@ -1,7 +1,7 @@
 # Site settings
 title: Klaus Blog
 SEOTitle: 袁帅的博客 | Klaus Blog
-header-img: img/blog-b.jpg
+header-img: img/blog-bg.jpg
 email: mk2456mk@gmail.com
 description: "关于程序与设计、黑客 | 袁帅，Web Lover，Software Engineer | 这里是 @Klaus 袁帅 的个人博客，路一直都在。"
 keyword: " Klaus Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
@@ -85,7 +85,7 @@ sidebar-avatar: /img/      # use absolute URL, seeing it's used in both `/` and 
 
 # Featured Tags
 featured-tags: true                    # whether or not using Feature-Tags
-featured-condition-size: 0              # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
 
