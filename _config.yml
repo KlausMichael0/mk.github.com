@@ -1,8 +1,8 @@
 # Site settings
 title: Klaus Blog
 SEOTitle: 袁帅的博客 | Klaus Blog
-header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+header-img: img/blog-background.jpg
+email: klausmichael@gmail.com
 description: "关于程序与设计、黑客 | 袁帅，Web Lover，Software Engineer | 这里是 @Klaus 袁帅 的个人博客，路一直都在。"
 keyword: " Klaus Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://KlausMichael0.github.io"              # your host, for absolute URL
