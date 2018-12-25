@@ -1,9 +1,9 @@
 ---
 layout:    post
-title:     what a gorgeous day
+title:     What a gorgeous day
 subtitle:  Hello Universe
 date:      2018-12-25
-author:    klaus
+author:    Klaus
 header-img:img/blog-firstday.jpg
 catalog:   true
 tags:
