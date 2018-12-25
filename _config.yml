@@ -1,9 +1,9 @@
 # Site settings
 title: Klaus Blog
-SEOTitle: 袁帅的博客 | Klaus Blog
+SEOTitle: Klaus Blog
 header-img: img/blog-bg.jpg
 email: mk2456mk@gmail.com
-description: "关于程序与设计、黑客 | 袁帅，Web Lover，Software Engineer | 这里是 @Klaus 袁帅 的个人博客，路一直都在。"
+description: "关于程序与设计、黑客 | Web Lover，Software Engineer | 这里是 @Klaus 的个人博客，路一直都在。"
 keyword: " Klaus Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://KlausMichael0.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
