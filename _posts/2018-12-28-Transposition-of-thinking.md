@@ -5,7 +5,6 @@ subtitle: '方式以及形式'
 author: "Klaus"
 header-img: "img/blog-idea.jpg"
 header-mask: 0.3
-lang: en
 tags:
   - Thinking
 ---
@@ -63,7 +62,7 @@ tags:
 
 ### 总结
 
-以前只知道从对方的角度想问题,把换位思维想的如此简单,结果啪啪打脸,有如此多的方法和准则.牛批牛批
+以前只知道从对方的角度想问题,把换位思维想的如此简单,结果啪啪打脸,有如此多的方法和准则.牛批牛批orz.
 
 
 
